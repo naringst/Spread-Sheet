@@ -1,0 +1,47 @@
+
+/* 전체 설정 */
+body { 
+    width : 100%;
+    margin : 40px;
+    background-color: #E4E9E4;
+}
+
+
+/* export 버튼 설정 */
+button {
+    width : max-content;
+    height : 30px;
+    background-color: #355e3b;
+    color : white;
+    border : none;
+    border-radius:  10px;
+}
+
+
+
+/* 표 스타일 */
+
+table {
+    width : 80%;
+    padding : 0px;
+    border : 2px solid #cad5cb;
+}
+
+
+th, td {
+    padding : 2px auto;
+    height: 30px;
+    width : max-content;
+}
+
+
+th {
+    background-color:#bdcabe;
+}
+
+
+input {
+    border :none;
+    width : 95%;
+    height : 90%;
+}
